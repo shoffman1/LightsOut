@@ -1,1 +1,3 @@
 # LightsOut
+
+by Stephen Hoffmann
