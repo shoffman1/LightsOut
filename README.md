@@ -1,3 +1,4 @@
 # LightsOut
 
-by Stephen Hoffmann
+By: Stephen Hoffmann
+Repo URL: https://github.com/shoffman1/LightsOut/
